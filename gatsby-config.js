@@ -1,14 +1,15 @@
 const config = require('./src/config');
 
 module.exports = {
+  pathPrefix: '/Portfolio',
   siteMetadata: {
     title: 'Ayoub FRIHAOUI',
     description:
       'Ayoub FRIHAOUI is I’m a Computer Science student specializing in AI and Data Science. Currently, I’m focused on building Computer Vision and LLM Projects..',
-    siteUrl: 'https://brittanychiang.com', // No trailing slash allowed!
+    siteUrl: 'https://AyoubFrihaoui.github.io/Portfolio', // No trailing slash allowed!
     image: '/og.png', // Path to your image you placed in the 'static' folder
     twitterUsername: '@Ayoub_Frihaoui',
-    instagramUsername: '@ayoub_frihaoui',
+    instagramHandle: '@ayoub_frihaoui',
   },
   plugins: [
     `gatsby-plugin-react-helmet`,
