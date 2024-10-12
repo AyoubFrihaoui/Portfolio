@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Sitemap: https://ayoubfrihaoui.github.io/sitemap.xml
+Host: https://ayoubfrihaoui.github.io
