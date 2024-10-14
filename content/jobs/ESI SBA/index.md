@@ -10,4 +10,4 @@ url: 'https://www.esi-sba.dz/fr/'
 Higher National School of Computer Science
 
 - Studying computer science and math in the first 3 years.
-- Artificial Intelligence and Data Science in master.
+- Artificial Intelligence and Data Science in master and engineering degree.

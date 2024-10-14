@@ -1,7 +1,7 @@
 ---
 date: '2023-09-02'
 title: 'Web Developer Intern'
-company: 'DIGITAL TRADE AND EXPORT Ltd'
+company: 'DIGITAL TRADE & EXPORT Ltd'
 location: 'Algiers, Algeria'
 range: 'Sep - Oct 2023'
 #url: 'https://www.upstatement.com/'

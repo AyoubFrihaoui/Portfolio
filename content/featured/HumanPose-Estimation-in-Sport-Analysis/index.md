@@ -18,5 +18,5 @@ AI-driven motion tracking and video analysis to provide detailed insights into s
 - data labeling and augmentation
 - YOLOv8 transfer learning
 - Cropping
-- 3D to 2D projection using homography
+- 2D to 3D projection using homography and Camera projection
 - Metrics calculation

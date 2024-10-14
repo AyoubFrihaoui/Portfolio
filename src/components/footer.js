@@ -107,7 +107,7 @@ const Footer = () => {
 
       <StyledCredit tabindex="-1">
         <a href="https://github.com/AyoubFrihaoui/Portfolio">
-          <div>Forked by Ayoub FRIHAOUI</div>
+          <div>GitHub Repo & Credits</div>
         </a>
       </StyledCredit>
 

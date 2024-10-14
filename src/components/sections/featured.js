@@ -40,6 +40,13 @@ const StyledProject = styled.li`
   }
 
   &:nth-of-type(odd) {
+    .project-description {
+      text-align: left;
+
+      li {
+        text-align: left;
+      }
+    }
     .project-content {
       grid-column: 7 / -1;
       text-align: right;
